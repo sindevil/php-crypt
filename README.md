@@ -4,4 +4,5 @@ PHP文件加密方法，readme中含有php文档路径，页面：加函数参�
 php文档：https://www.php.net/manual/zh/
 
   函数参考-》加密扩展
+https://github.com/sindevil/php-crypt/blob/master/api.jpg
   
